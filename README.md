@@ -1,3 +1,3 @@
 # Nessun Dorma - Dokumentation
 
-### see [wiki]([wiki](https://github.com/Nessun-Dorma/nd-docs/wiki)https://github.com/Nessun-Dorma/nd-docs/wiki)
+### see [wiki](https://github.com/Nessun-Dorma/nd-docs/wiki)
